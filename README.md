@@ -86,7 +86,6 @@ I enjoy building practical projects and continuously improving my technical skil
 - **GitHub:** [zeeshanahmad03](https://github.com/zeeshanahmad03)
 - **LinkedIn:** [Connect with me](https://www.linkedin.com/in/iamzeeshan03)
 - **Portfolio:** [Visit Website](https://zeeshanahmad03.github.io/personal-portfolio/)
-   Portfolio: Visit Website
 ---
 
 ⭐ If you like this project, feel free to explore it and share your feedback.
