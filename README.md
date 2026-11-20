@@ -3,7 +3,6 @@
 A personal portfolio website built using **HTML, CSS, and JavaScript** to showcase my profile, technical skills, experience, and projects.
 
 ## 🌐 Live Portfolio
-## 🌐 Live Portfolio
 
 - 🏠 [Visit Portfolio Homepage](https://zeeshanahmad03.github.io/Personal-Portfolio/)
 - 💻 [Explore My Projects](https://zeeshanahmad03.github.io/Personal-Portfolio/#design)
